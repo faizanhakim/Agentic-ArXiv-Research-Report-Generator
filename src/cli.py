@@ -31,7 +31,7 @@ def main():
         f.write(report)
         f.write("\n")
 
-    print(f"\n✅ Saved report to: {out_path}")
+    print(f"\nSaved report to: {out_path}")
 
 if __name__ == "__main__":
     main()
